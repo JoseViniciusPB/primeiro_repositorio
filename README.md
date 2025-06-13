@@ -2,5 +2,9 @@
 Meu primeiro repositório no curso de Sistemas de Informação da UFPB.
 
 Nome: José Vinícius de Moura Barbosa
+
 Curso: Sistemas de Informação
+
 Período Inicial: 2025.1
+
+Minha Banda Favorita: Chiclete com Banana
